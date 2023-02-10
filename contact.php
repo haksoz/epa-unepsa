@@ -28,7 +28,7 @@
 
               <p>For any inquiry, please contact the EPA-UNEPSA secretariat team or the individual board members at their official emails addresses.</p>
 
-              <p>Prof. Dr. Mehmet Vural hocamızın iletişim bilgileri</p>
+              <p>Prof. Dr. Mehmet Vural<br> <a href="mailto:drmehmetvural@gmail.com">drmehmetvural@gmail.com</a></p>
 
               
              
