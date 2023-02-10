@@ -13,6 +13,7 @@
 	<div class="sigma_banner banner-1">
 		<div class="sigma_banner-slider">
 			<!-- Banner Item Start -->
+
 			<div class="light-bg bg-cover bg-center bg-norepeat" style="background-image: url('../doc/EPA2023-slider-01.jpg');">
 				<div class="sigma_banner-slider-inner">
 					<div class="sigma_banner-text">
