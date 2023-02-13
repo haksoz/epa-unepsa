@@ -16,15 +16,17 @@
 
 			<div class="light-bg bg-cover bg-center bg-norepeat" style="background-image: url('../doc/EPA2023-slider-01.jpg');">
 				<div class="sigma_banner-slider-inner">
-					<div class="sigma_banner-text">
-						<div class="container">
-							<div class="row align-items-center">
-								<div class="col-lg-12">
-									<h1 class="title"></h1>
+					<a href="http://europaediatrics.org/" target="_blank">
+						<div class="sigma_banner-text">
+							<div class="container">
+								<div class="row align-items-center">
+									<div class="col-lg-12">
+										<h1 class="title"></h1>
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 			</div>
 			<div class="light-bg bg-cover bg-center bg-norepeat" style="background-image: url('../doc/UI-Design_hot-topics-02.jpg');">
@@ -44,15 +46,17 @@
 			</div>
 			<div class="light-bg bg-cover bg-center bg-norepeat" style="background-image: url('../doc/slider-saffi-2.jpg');">
 				<div class="sigma_banner-slider-inner">
-					<div class="sigma_banner-text">
-						<div class="container">
-							<div class="row align-items-center">
-								<div class="col-lg-12">
-									<h1 class="title"><img alt="img" src="doc/saffi-logo-v2.png" style="max-width: 280px;"></h1>
+					<a href="https://saffi.eu/" target="_blank">
+						<div class="sigma_banner-text">
+							<div class="container">
+								<div class="row align-items-center">
+									<div class="col-lg-12">
+										<h1 class="title"><img alt="img" src="doc/saffi-logo-v2.png" style="max-width: 280px;"></h1>
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 			</div><!-- Banner Item End -->
 		</div>
