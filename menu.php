@@ -82,7 +82,7 @@
 										<a href="/publications/newsletters.php" title="">EPA/UNEPSA Newsletter</a>
 									</li>
 									<li class="menu-item">
-										<a href="/publications/ebook-articles.php" title="">EPA/UNEPSA E-Book Articles</a>
+										<a href="/publications/ebook-articles.php" title="">EPA/UNEPSA Publications</a>
 									</li>
 									<li class="menu-item">
 										<a href="/publications/articles-journals.php" title="">EPA/UNEPSA Articles</a>

@@ -30,9 +30,10 @@
             <div class="entry-content">
               <div class="sigma_post-meta">
                 <div class="sigma_post-categories">
-                   <h4 class="entry-title">EPA/UNEPSA E-Book Articles</h4>
+                   <h4 class="entry-title">EPA/UNEPSA Publications</h4>
                 </div>
               </div>
+              <h6>EPA-UNEPSA Publications and Supported Editorial Products</h6>
               <div class="row align-items-center sigma_box">
                 <div class="col-lg-3 col-xl-3 mb-lg-30">
                   <img src="/sites/default/files/articolodef1.png" class="w-100" alt="details">
