@@ -325,8 +325,9 @@
 				<div class="map-marker marker-1">
 					<span></span>
 					<div class="map-marker-content">
-						<span><b class="text-white">Australia</b></span>
-						<p>Paediatrics And Child Health Division, The Royal Australasian College Of Physicians Contacts: No. 145, Macquarie Street, Sydney, NSW2000, Australia</p><span><b class="text-white">Tel: 612-9256-5409 Fax: 612-9252-3310</b></span>
+						<span><b class="text-white">Turkiye</b></span>
+						<p>Turkish Pediatric Association<br>Turk Pediatri Kurumu</p><span><b class="text-white">Website: <a href="https://www.turkpediatri.org.tr" target="_blank">www.turkpediatri.org.tr</a></b></span>
+						<p>Turkish National Pediatric Society<br>Türkiye Milli Pediatri Derneği</p><span><b class="text-white">Website: <a href="https://www.millipediatri.org.tr" target="_blank">www.millipediatri.org.tr</a></b></span>
 					</div>
 				</div>
 				<div class="map-marker marker-2">
@@ -340,7 +341,7 @@
 					<span></span>
 					<div class="map-marker-content">
 						<span><b class="text-white">Iraq</b></span>
-						<p>Pediatric Society of Iraq Contacts: prof. Naijla Ayoub and Dr. Mohammed Mujar of Al-Qadisiah University School of Medicine, Iraq,Diwaniah, Al-Furat Q,</p><span></span>
+						<p>Pediatric Society of Iraq</p><span><b class="text-white">Contacts: Prof. Naijla Ayoub and Dr. Mohammed Mujar of Al-Qadisiah University School of Medicine, Iraq, Diwaniah, Al-Furat Q.</b></span>
 					</div>
 				</div>
 				<div class="map-marker marker-4">
@@ -356,7 +357,7 @@
               -->
 					<span></span>
 					<div class="map-marker-content">
-						<span><b class="text-white">EPA-UNEPA Germany</b></span>
+						<span><b class="text-white">Germany</b></span>
 						<p>Allt. center, Zimmerstraße 69, D-10117, Berlin, Germany</p><span><b class="text-white">info@epa-unepsa.org</b></span>
 					</div>
 				</div>
@@ -364,7 +365,7 @@
 					<span></span>
 					<div class="map-marker-content">
 						<span><b class="text-white">Cyprus</b></span>
-						<p>Cyprus Paediatric Society</p><span><b class="text-white">Website: <a href="https://www.child.org.cy" target="_blank">www.child.org.cy</a></b></span>
+						<p>Cyprus Pediatric Society</p><span><b class="text-white">Website: <a href="https://www.child.org.cy" target="_blank">www.child.org.cy</a></b></span>
 					</div>
 				</div>
 				<div class="map-marker marker-7">
@@ -419,7 +420,7 @@
 				<div class="map-marker marker-14">
 					<span></span>
 					<div class="map-marker-content">
-						<span><b class="text-white">Czech Republic</b></span>
+						<span><b class="text-white">Czechia</b></span>
 						<p>Czech Pediatric Society</p><span><b class="text-white">Website: <a href="https://www.pediatrics.cz" target="_blank">www.pediatrics.cz</a></b></span>
 					</div>
 				</div>
@@ -484,7 +485,157 @@
 					<span></span>
 					<div class="map-marker-content">
 						<span><b class="text-white">Italy</b></span>
-						<p>Hellenic Paediatric Society</p><span><b class="text-white">Website: <a href="https://www.e-child.gr" target="_blank">www.e-child.gr</a></b></span>
+						<p>Italian Federation of Primary Care Pediatricians<br>Federazione Italiana Medici Pediatri - FIMP<br>Central Office: Rome (Italy)</p><span><b class="text-white">Website: <a href="https://www.fimp.pro" target="_blank">www.fimp.pro</a></b></span>
+						<p>Societa Italiana di Pediatria (SIP)<br>Central office: Via Gioberti, 60</p><span><b class="text-white">Website: <a href="https://www.sip.it" target="_blank">www.sip.it</a></b></span>
+						<p>Italian Society of Pediatric Research (SIRP)<br>Società Italiana di Ricerca Pediatrica (SIRP)<br>Central Office: Via G. Quagliariello, 27 - 80131 NAPOLI</p><span><b class="text-white">Website: <a href="https://www.sirped.it" target="_blank">www.sirped.it</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-24">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Kazakhstan</b></span>
+						<p>National Pediatric Society of Kazakhstan</p><span><b class="text-white">Contact: Almaty 480096</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-25">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Kyrgyzstan</b></span>
+						<p>Society of pediatricians of Kyrgyzstan<br>ul.Togoloka Moldo. N1 Bishkek GSP 720361</p><span><b class="text-white">Contact: Kyrgyzstan Research Institute</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-26">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Latvia</b></span>
+						<p>Latvijas Pediatru Asociacija</p><span><b class="text-white">Website: <a href="https://www.lpa.lv" target="_blank">www.lpa.lv</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-27">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Lithuania</b></span>
+						<p>Lithuanian Paediatric Association<br>Tel. & Fax: +370 5 2391498</p><span><b class="text-white">Website: <a href="https://www.pediatrija.org" target="_blank">www.pediatrija.org</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-28">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Luxembourg</b></span>
+						<p>Societe Luxembourgeoise de Pediatrie<br>Centre Hospitalier<br>4 rue Barblé L-1210 Luxembourge</p><span><b class="text-white">Contact: Clinique Pédiatrique / Tel: +35 244 11 11</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-29">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Moldova</b></span>
+						<p>Moldovan Pediatric Society</p><span><b class="text-white">Website: <a href="https://www.pediatru.md" target="_blank">www.pediatru.md</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-30">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Montenegro</b></span>
+						<p>Montenegro Pediatric Assocoation<br>Ljubljanska bb 20000 Podgorica, Montenegro</p><span><b class="text-white">Contact: University Children’s Hospital / Tel: +382 20412705</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-31">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Norway</b></span>
+						<p>Norwegian Pediatric Association</p><span><b class="text-white">Website: <a href="http://legeforeningen.no/" target="_blank">www.legeforeningen.no/</a><br>E-Mail Contact: <a href="mailto:leder@barnelegeforeningen.no" target="_blank">leder@barnelegeforeningen.no</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-32">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Poland</b></span>
+						<p>Polish Pediatric Society<br>Polskie Towarzystwo Pediatryczne</p><span><b class="text-white">Website: <a href="https://www.ptp.edu.pl" target="_blank">www.ptp.edu.pl</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-33">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Portugal</b></span>
+						<p>Portuguese Society of Pediatrics<br>Sociedade Portuguesa de Pediatria (SPP)</p><span><b class="text-white">Website: <a href="https://www.spp.pt" target="_blank">www.spp.pt</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-34">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Romania</b></span>
+						<p>Romanian Society of Pediatrics<br>Societatea Romana de Pediatrie</p><span><b class="text-white">Website: <a href="https://www.srped.ro" target="_blank">www.srped.ro</a></b></span>
+						<p>Societatea Romana de Pediatrie Sociala</p><span><b class="text-white">Website: <a href="https://www.pediatriesociala.ro" target="_blank">www.pediatriesociala.ro</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-35">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Russia</b></span>
+						<p>Russian Public Academy of Pediatrics<br>119991, Moscow, Russia</p><span><b class="text-white">Contact: Lomonosovsky str. 2/62 / Tel. & Fax: +7 499 1341308</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-36">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Serbia</b></span>
+						<p>Paediatric Association of Serbia</p><span><b class="text-white">Website: <a href="https://udruzenjepedijatara.rs" target="_blank">udruzenjepedijatara.rs</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-37">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Slovakia</b></span>
+						<p>Slovakian Paediatric Society</p><span><b class="text-white">Website: <a href="https://www.sls-sps.sk" target="_blank">www.sls-sps.sk</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-38">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Slovenia</b></span>
+						<p>Slovenian Paediatric Society</p><span><b class="text-white">Website: <a href="https://www.zzp.si" target="_blank">www.zzp.si</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-39">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Spain</b></span>
+						<p>Spanish Association of Pediatrics<br>Asociacion Espanola de Pediatria</p><span><b class="text-white">Website: <a href="https://www.aeped.es" target="_blank">www.aeped.es</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-40">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Sweden</b></span>
+						<p>Swedish Paediatric Society<br>Svenska Barnlakarforeningen</p><span><b class="text-white">Website: <a href="https://www.pediatru.md" target="_blank">www.pediatru.md</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-41">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Tajikistan</b></span>
+						<p>Pediatric Society of Tajikistan<br>Pediatrics and Pediatric Surgery</p><span><b class="text-white">Contact: Tajik Scientific Clinical Center Dushanbe, Tajikistan</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-42">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Ukraine</b></span>
+						<p>Ukraine Pediatric Association<br>President: Prof. Jury Antipkin</p><span><b class="text-white">Institute of Pediatrics Obstetrics and Gynecology</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-43">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">United Kingdom</b></span>
+						<p>Royal College of Paediatrics and Child Health<br>Royal College of Paediatrics and Child Health<br>WC1X 8SH, London, United Kingdom</p><span><b class="text-white">Website: <a href="https://www.rcpch.ac.uk" target="_blank">www.rcpch.ac.uk</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-44">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Uzbekistan</b></span>
+						<p>Uzbekistan Pediatric Association<br>Asociacion Espanola de Pediatria</p><span><b class="text-white">Website: <a href="https://https://tashpmi.uz/" target="_blank">https://tashpmi.uz/</a><br>Contact: Tashkent Pediatric Medical Institute<br>223, Bogishamol Street Taskent 100 140</b></span>
 					</div>
 				</div>
 			</div>

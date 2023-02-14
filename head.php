@@ -11,6 +11,6 @@
 	<link href="/assets/css/plugins/ion.rangeSlider.min.css" rel="stylesheet"><!-- Icon Fonts -->
 	<link href="/assets/fonts/flaticon/flaticon.css" rel="stylesheet">
 	<link href="/assets/css/plugins/font-awesome.min.css" rel="stylesheet"><!-- Template Style sheet -->
-	<link href="/assets/css/style.css?v=7" rel="stylesheet">
+	<link href="/assets/css/style.css?v=8" rel="stylesheet">
 	<link href="/assets/css/responsive.css?v=5" rel="stylesheet"><!-- partial -->
 </head>

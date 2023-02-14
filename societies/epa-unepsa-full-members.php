@@ -41,20 +41,20 @@
               <p><b>Albania</b></p>
               <p>
                 Albanian Pediatric Society<br>
-                Website: <a href="http://www.aps.al/">www.aps.al</a>
+                Website: <a href="http://www.aps.al/" target="_blank">www.aps.al</a>
               </p>
 
               <p><b>Armenia</b></p>
               <p>
                 Armenian Association of Pediatrics <br>
-                Website: <a href="http://www.arabkirjmc.am/">www.arabkirjmc.am</a>
+                Website: <a href="http://www.arabkirjmc.am/" target="_blank">www.arabkirjmc.am</a>
               </p>
 
               <p><b>Austria</b></p>
               <p>
                 Austrian Society of Paediatrics and Adolescent Medicine<br>
                 Österreichische Gesellschaft für Kinder- und Jugendheilkunde (ÖGKJ)<br>
-                Website: <a href="https://www.docs4you.at/">www.docs4you.at</a>
+                Website: <a href="https://www.docs4you.at/" target="_blank">www.docs4you.at</a>
               </p>
 
               <p><b>Azerbaijan</b></p>
@@ -69,94 +69,94 @@
                 Belgische Vereniging voor Kindergeneeskunde<br>
                 Secretariat: c/o Newway<br>
                 Leuvensesteenweg, 775<br>
-                Website: <a href="https://bvk-sbp.be/">www.bvksbp.be</a>
+                Website: <a href="https://bvk-sbp.be/" target="_blank">www.bvksbp.be</a>
               </p>
 
               <p><b>Bosnia and Herzegovina</b></p>
               <p>
                 Pediatric Society of Bosnia and Herzegovina<br>
-                Website: <a href="https://upubih.ba/">www.upubih.ba</a>
+                Website: <a href="https://upubih.ba/" target="_blank">www.upubih.ba</a>
               </p>
 
               <p><b>Bulgaria</b></p>
               <p>
                 Bulgarian Pediatric Association<br>
-                Website: <a href="https://pediatria-bg.eu/">www.pediatria-bg.eu</a>
+                Website: <a href="https://pediatria-bg.eu/" target="_blank">www.pediatria-bg.eu</a>
               </p>
 
               <p><b>Croatia (updated March 2011)</b></p>
               <p>
                 Croatian Pediatric Society<br>
-                Website: <a href="https://www.hpd.com.hr/">www.hpd.com.hr</a>
+                Website: <a href="https://www.hpd.com.hr/" target="_blank">www.hpd.com.hr</a>
               </p>
 
               <p><b>Cyprus</b></p>
               <p>
-                Cyprus Paediatric Society<br>
-                Website: <a href="https://child.org.cy/">www.child.org.cy</a>
+                Cyprus Pediatric Society<br>
+                Website: <a href="https://child.org.cy/" target="_blank">www.child.org.cy</a>
               </p>
 
               <p><b>Czech Republic</b></p>
               <p>
                 Czech Pediatric Society<br>
-                Website: <a href="https://www.pediatrics.cz/">www.pediatrics.cz</a>
+                Website: <a href="https://www.pediatrics.cz/" target="_blank">www.pediatrics.cz</a>
               </p>
 
               <p><b>Denmark</b></p>
               <p>
                 Danish Paediatric Society<br>
                 Dansk PaediatriskSelskab<br>
-                Website: <a href="https://www.paediatri.dk/">www.paediatri.dk</a>
+                Website: <a href="https://www.paediatri.dk/" target="_blank">www.paediatri.dk</a>
               </p>
 
               <p><b>France</b></p>
               <p>
                 Association Française de Pédiatrie Ambulatoire (AFPA)<br>
-                Website: <a href="https://afpa.org/">www.afpa.org</a>
+                Website: <a href="https://afpa.org/" target="_blank">www.afpa.org</a>
               </p>
 
               <p><b>France</b></p>
               <p>
                 French Society of Pediatrics<br>
                 Société Française de Pédiatrie (SFP)<br>
-                Website: <a href="https://www.sfpediatrie.com/">www.sfpediatrie.com</a>
+                Website: <a href="https://www.sfpediatrie.com/" target="_blank">www.sfpediatrie.com</a>
               </p>
 
               <p><b>The Former Yugoslav Republic of Macedonia</b></p>
               <p>
                 Pediatric Association of Macedonia<br>
-                Website: <a href="http://www.zpm.org.mk/">www.zpm.org.mk</a>
+                Website: <a href="http://www.zpm.org.mk/" target="_blank">www.zpm.org.mk</a>
               </p>
 
               <p><b>Georgia</b></p>
               <p>
                 Georgian Pediatric Association<br>
-                Website: <a href="http://www.acadpediatr.ge/">www.acadpediatr.ge</a>
+                Website: <a href="http://www.acadpediatr.ge/" target="_blank">www.acadpediatr.ge</a>
               </p>
 
               <p><b>Greece</b></p>
               <p>
                 Hellenic Paediatric Society<br>
-                Website: <a href="https://e-child.gr/">www.e-child.gr </a>
+                Website: <a href="https://e-child.gr/" target="_blank">www.e-child.gr </a>
               </p>
 
               <p><b>Hungary</b></p>
               <p>
                 Hungarian Pediatric Association<br>
-                Website: <a href="http://www.gyermekorvostarsasag.hu/">www.gyermekorvostarsasag.hu</a>
+                Website: <a href="http://www.gyermekorvostarsasag.hu/" target="_blank">www.gyermekorvostarsasag.hu</a>
               </p>
 
               <p><b>Ireland</b></p>
               <p>
                 Royal College of Physician of Ireland<br>
                 Faculty of Paediatrics<br>
-                Website: <a href="https://www.rcpi.ie/">www.rcpi.ie </a>
+                Website: <a href="https://www.rcpi.ie/" target="_blank">www.rcpi.ie </a>
               </p>
 
               <p><b>Israel</b></p>
               <p>
                 Israel Pediatric Association<br>
-                Website: <a href="https://www.pediatrics.org.il/">www.pediatrics.org.il</a>
+                Website: <a href="https://www.pediatrics.org.il/" target="_blank">www.pediatrics.org.il</a>
               </p>
 
               <p><b>Italy</b></p>
@@ -166,7 +166,7 @@
                 Central Office: Rome (Italy)<br>
                 Via Parigi, 11 00185 – Roma (It)<br>
                 Tel.: +39.06.44119827<br>
-                Website: <a href="https://fimp.pro/">www.fimp.pro</a>
+                Website: <a href="https://fimp.pro/" target="_blank">www.fimp.pro</a>
               </p>
 
               <p><b>Italy</b></p>
@@ -176,7 +176,7 @@
                 00185, Roma (It)<br>
                 Tel.: +39 06 4454912<br>
                 Fax: +39 06 4938250<br>
-                Website: <a href="https://sip.it/">www.sip.it</a>
+                Website: <a href="https://sip.it/" target="_blank">www.sip.it</a>
               </p>
 
               <p><b>Italy</b></p>
@@ -189,7 +189,7 @@
                 Tel. +39 081 195 78490<br>
                 Fax +39 081 195 78071<br>
                 Skype: sirp.segreteria<br>
-                Website: <a href="https://sirped.it/">www.sirped.it</a>
+                Website: <a href="https://sirped.it/" target="_blank">www.sirped.it</a>
               </p>
 
               <p><b>Kazakhstan</b></p>
@@ -208,13 +208,13 @@
               <p><b>Latvia</b></p>
               <p>
                 Latvijas Pediatru Asociacija<br>
-                Website: <a href="http://www.lpa.lv/">www.lpa.lv</a>
+                Website: <a href="http://www.lpa.lv/" target="_blank">www.lpa.lv</a>
               </p>
               <p><b>Lithuania</b></p>
               <p>
                 Lithuanian Paediatric Association<br>
                 Tel. & Fax: +370 5 2391498<br>
-                Website: <a href="https://www.pediatrija.org/">www.pediatrija.org</a>
+                Website: <a href="https://www.pediatrija.org/" target="_blank">www.pediatrija.org</a>
               </p>
               <p><b>Luxembourg</b></p>
               <p>
@@ -228,7 +228,7 @@
               <p><b>Moldova</b></p>
               <p>
                 Moldovan Pediatric Society<br>
-                Website: <a href="http://pediatru.md/">www.pediatru.md</a>
+                Website: <a href="http://pediatru.md/" target="_blank">www.pediatru.md</a>
               </p>
 
               <p><b>Montenegro</b></p>
@@ -243,34 +243,34 @@
               <p>
                 Norwegian Pediatric Association<br>
                 E-Mail Contact: <a href="mailto:leder@barnelegeforeningen.no">leder@barnelegeforeningen.no</a><br>
-                Website: <a href="https://www.legeforeningen.no/foreningsledd/fagmed/norsk-barnelegeforening/">http://legeforeningen.no/</a>
+                Website: <a href="https://www.legeforeningen.no/foreningsledd/fagmed/norsk-barnelegeforening/" target="_blank">www.egeforeningen.no/</a>
               </p>
 
               <p><b>Poland</b></p>
               <p>
                 Polish Pediatric Society<br>
                 Polskie Towarzystwo Pediatryczne<br>
-                Website: <a href="https://ptp.edu.pl/">www.ptp.edu.pl</a>
+                Website: <a href="https://ptp.edu.pl/" target="_blank">www.ptp.edu.pl</a>
               </p>
 
               <p><b>Portugal</b></p>
               <p>
                 Portuguese Society of Pediatrics<br>
                 Sociedade Portuguesa de Pediatria (SPP)<br>
-                Website: <a href="https://www.spp.pt/">www.spp.pt</a>
+                Website: <a href="https://www.spp.pt/" target="_blank">www.spp.pt</a>
               </p>
 
               <p><b>Romania</b></p>
               <p>
                 Romanian Society of Pediatrics<br>
                 Societatea Romana de Pediatrie<br>
-                Website: <a href="https://srped.ro/">www.srped.ro</a>
+                Website: <a href="https://srped.ro/" target="_blank">www.srped.ro</a>
               </p>
 
               <p><b>Romania</b></p>
               <p>
                 Societatea Romana de Pediatrie Sociala<br>
-                Website: <a href="http://pediatriesociala.ro/">www.pediatriesociala.ro</a>
+                Website: <a href="http://pediatriesociala.ro/" target="_blank">www.pediatriesociala.ro</a>
               </p>
 
               <p><b>Russia</b></p>
@@ -284,33 +284,33 @@
               <p><b>Serbia</b></p>
               <p>
                 Paediatric Association of Serbia<br>
-                Website: <a href="http://www.udruzenjepedijatara.rs/">udruzenjepedijatara.rs</a>
+                Website: <a href="http://www.udruzenjepedijatara.rs/" target="_blank">udruzenjepedijatara.rs</a>
               </p>
 
               <p><b>Slovakia</b></p>
               <p>
                 Slovakian Paediatric Society<br>
-                Website: <a href="http://www.sls-sps.sk/">www.sls-sps.sk</a>
+                Website: <a href="http://www.sls-sps.sk/" target="_blank">www.sls-sps.sk</a>
               </p>
 
               <p><b>Slovenia</b></p>
               <p>
                 Slovenian Paediatric Society<br>
-                Website: <a href="https://zzp.si/">www.zzp.si</a>
+                Website: <a href="https://zzp.si/" target="_blank">www.zzp.si</a>
               </p>
 
               <p><b>Spain</b></p>
               <p>
                 Spanish Association of Pediatrics<br>
                 Asociacion Espanola de Pediatria<br>
-                Website: <a href="https://www.aeped.es/">www.aeped.es</a>
+                Website: <a href="https://www.aeped.es/" target="_blank">www.aeped.es</a>
               </p>
 
               <p><b>Sweden</b></p>
               <p>
                 Swedish Paediatric Society<br>
                 Svenska Barnlakarforeningen<br>
-                Website: <a href="http://pediatru.md/">www.pediatru.md</a>
+                Website: <a href="http://pediatru.md/" target="_blank">www.pediatru.md</a>
               </p>
 
               <p><b>Tajikistan</b></p>
@@ -325,14 +325,14 @@
               <p>
                 Turkish Pediatric Association<br>
                 Turk Pediatri Kurumu<br>
-                Website: <a href="https://turkpediatri.org.tr/">www.turkpediatri.org.tr</a>
+                Website: <a href="https://turkpediatri.org.tr/" target="_blank">www.turkpediatri.org.tr</a>
               </p>
 
               <p><b>Turkey</b></p>
               <p>
                 Turkish National Pediatric Society<br>
                 Türkiye Milli Pediatri Derneği<br>
-                Website: <a href="https://www.millipediatri.org.tr/">www.millipediatri.org.tr</a>
+                Website: <a href="https://www.millipediatri.org.tr/" target="_blank">www.millipediatri.org.tr</a>
               </p>
 
               <p><b>Ukraine</b></p>
@@ -347,7 +347,7 @@
                 Royal College of Paediatrics and Child Health<br>
                 5-11 Theobalds Road,<br>
                 WC1X 8SH, London, United Kingdom<br>
-                Website: <a href="https://www.rcpch.ac.uk/">www.rcpch.ac.uk</a>
+                Website: <a href="https://www.rcpch.ac.uk/" target="_blank">www.rcpch.ac.uk</a>
               </p>
 
               <p><b>Uzbekistan</b></p>
@@ -355,7 +355,7 @@
                 Uzbekistan Pediatric Association<br>
                 Contact: Tashkent Pediatric Medical Institute<br>
                 223, Bogishamol Street Taskent 100 140<br>
-                Website: <a href="https://tashpmi.uz/">https://tashpmi.uz/</a>
+                Website: <a href="https://tashpmi.uz/" target="_blank">https://tashpmi.uz/</a>
               </p>
 
             </div><!-- Post Meta Start -->
