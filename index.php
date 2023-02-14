@@ -343,6 +343,13 @@
 						<p>Pediatric Society of Iraq Contacts: prof. Naijla Ayoub and Dr. Mohammed Mujar of Al-Qadisiah University School of Medicine, Iraq,Diwaniah, Al-Furat Q,</p><span></span>
 					</div>
 				</div>
+				<div class="map-marker marker-4">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Croatia</b></span>
+						<p>Croatian Pediatric Society</p><span><b class="text-white">Website: <a href="https://www.hpd.com.hr" target="_blank">www.hpd.com.hr</a></b></span>
+					</div>
+				</div>
 				<div class="map-marker marker-5 right">
 					<!--
                 <img src="doc/favicon.png" alt="person">
@@ -351,6 +358,133 @@
 					<div class="map-marker-content">
 						<span><b class="text-white">EPA-UNEPA Germany</b></span>
 						<p>Allt. center, Zimmerstraße 69, D-10117, Berlin, Germany</p><span><b class="text-white">info@epa-unepsa.org</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-6">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Cyprus</b></span>
+						<p>Cyprus Paediatric Society</p><span><b class="text-white">Website: <a href="https://www.child.org.cy" target="_blank">www.child.org.cy</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-7">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Albania</b></span>
+						<p>Albanian Pediatric Society</p><span><b class="text-white">Website: <a href="https://www.aps.al" target="_blank">www.aps.al</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-8">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Armenia</b></span>
+						<p>Armenian Association of Pediatrics</p><span><b class="text-white">Website: <a href="https://www.arabkirjmc.am" target="_blank">www.arabkirjmc.am</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-9">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Austria</b></span>
+						<p>Austrian Society of Paediatrics and Adolescent Medicine<br>Österreichische Gesellschaft für Kinder- und Jugendheilkunde (ÖGKJ)</p><span><b class="text-white">Website: <a href="https://www.docs4you.at" target="_blank">www.docs4you.at</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-10">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Azerbaijan</b></span>
+						<p>Azerbaijan Pediatric Society</p><span><b class="text-white">Contact: Bul Bul Prospect 21, Flat 33 Baku 3700007</b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-11">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Belgium</b></span>
+						<p>Société Belge de Pédiatrie/<br>Belgische Vereniging voor Kindergeneeskunde<br>Secretariat: c/o Newway<br>Leuvensesteenweg, 775</p><span><b class="text-white">Website: <a href="https://www.bvksbp.be" target="_blank">www.bvksbp.be</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-12">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Bosnia and Herzegovina</b></span>
+						<p>Pediatric Society of Bosnia and Herzegovina</p><span><b class="text-white">Website: <a href="https://www.upubih.ba" target="_blank">www.upubih.ba</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-13">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Bulgaria</b></span>
+						<p>Bulgarian Pediatric Association</p><span><b class="text-white">Website: <a href="https://www.pediatria-bg.eu" target="_blank">www.pediatria-bg.eu</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-14">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Czech Republic</b></span>
+						<p>Czech Pediatric Society</p><span><b class="text-white">Website: <a href="https://www.pediatrics.cz" target="_blank">www.pediatrics.cz</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-15">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Denmark</b></span>
+						<p>Danish Paediatric Society<br>Dansk PaediatriskSelskab</p><span><b class="text-white">Website: <a href="https://www.paediatri.dk" target="_blank">www.paediatri.dk</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-16">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">France</b></span>
+						<p>Association Française de Pédiatrie Ambulatoire (AFPA)</p><span><b class="text-white">Website: <a href="https://www.afpa.org" target="_blank">www.afpa.org</a></b></span>
+						<p>French Society of Pediatrics<br>Société Française de Pédiatrie (SFP)</p><span><b class="text-white">Website: <a href="https://www.sfpediatrie.com" target="_blank">www.sfpediatrie.com</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-17">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Hungary</b></span>
+						<p>Hungarian Pediatric Association</p><span><b class="text-white">Website: <a href="https://www.gyermekorvostarsasag.hu" target="_blank">www.gyermekorvostarsasag.hu</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-18">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">North Macedonia</b></span>
+						<p>Pediatric Association of Macedonia</p><span><b class="text-white">Website: <a href="https://www.zpm.org.mk" target="_blank">www.zpm.org.mk</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-19">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Ireland</b></span>
+						<p>Royal College of Physician of Ireland<br>Faculty of Paediatrics</p><span><b class="text-white">Website: <a href="https://www.rcpi.ie" target="_blank">www.rcpi.ie</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-20">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Georgia</b></span>
+						<p>Georgian Pediatric Association</p><span><b class="text-white">Website: <a href="https://www.acadpediatr.ge" target="_blank">www.acadpediatr.ge</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-21">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Greece</b></span>
+						<p>Hellenic Paediatric Society</p><span><b class="text-white">Website: <a href="https://www.e-child.gr" target="_blank">www.e-child.gr</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-22">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Israel</b></span>
+						<p>Israel Pediatric Association</p><span><b class="text-white">Website: <a href="https://www.pediatrics.org.il" target="_blank">www.pediatrics.org.il</a></b></span>
+					</div>
+				</div>
+				<div class="map-marker marker-23">
+					<span></span>
+					<div class="map-marker-content">
+						<span><b class="text-white">Italy</b></span>
+						<p>Hellenic Paediatric Society</p><span><b class="text-white">Website: <a href="https://www.e-child.gr" target="_blank">www.e-child.gr</a></b></span>
 					</div>
 				</div>
 			</div>

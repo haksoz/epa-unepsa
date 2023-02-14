@@ -9872,18 +9872,103 @@ small {
 }
 .map-marker.marker-4{
   position: absolute;
-  top: 20%;
-  right: 85%;
+  top: 24%;
+  right: 50%;
 }
 .map-marker.marker-5{
   position: absolute;
-  top: 15%;
-  right: 49%;
+  top: 19%;
+  right: 51%;
 }
 .map-marker.marker-6{
   position: absolute;
+  top: 32%;
+  right: 44%;
+}
+.map-marker.marker-7{
+  position: absolute;
+  top: 26%;
+  right: 48%;
+}
+.map-marker.marker-8{
+  position: absolute;
+  top: 29%;
+  right: 41%;
+}
+.map-marker.marker-9{
+  position: absolute;
+  top: 21%;
+  right: 50%;
+}
+.map-marker.marker-10{
+  position: absolute;
+  top: 29%;
+  right: 40%;
+}
+.map-marker.marker-11{
+  position: absolute;
+  top: 21%;
+  right: 53%;
+}
+.map-marker.marker-12{
+  position: absolute;
+  top: 25%;
+  right: 49%;
+}
+.map-marker.marker-13{
+  position: absolute;
+  top: 26%;
+  right: 46%;
+}
+.map-marker.marker-14{
+  position: absolute;
+  top: 19%;
+  right: 50%;
+}
+.map-marker.marker-15{
+  position: absolute;
+  top: 16%;
+  right: 51%;
+}
+.map-marker.marker-16{
+  position: absolute;
+  top: 23%;
+  right: 54%;
+}
+.map-marker.marker-17{
+  position: absolute;
   top: 20%;
-  right: 30%;
+  right: 49%;
+}
+.map-marker.marker-18{
+  position: absolute;
+  top: 26%;
+  right: 47%;
+}
+.map-marker.marker-19{
+  position: absolute;
+  top: 19%;
+  right: 57%;
+}
+.map-marker.marker-20{
+  position: absolute;
+  top: 27%;
+  right: 41%;
+}
+.map-marker.marker-21{
+  position: absolute;
+  top: 29%;
+  right: 47%;
+}
+.map-marker.marker-22{
+  position: absolute;
+  top: 34%;
+  right: 42%;
+}
+.map-marker.marker-23{
+  position: absolute;
+  top: 27%;
+  right: 50%;
 }
 
 
