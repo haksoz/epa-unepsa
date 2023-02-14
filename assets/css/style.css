@@ -2405,7 +2405,7 @@ input[type=radio]:checked+label:after {
 }
 
 .secondary-bg {
-  background- color: #007cc2;
+  background-color: #007cc2;
 }
 
 .tirtery-bg {
@@ -9461,7 +9461,7 @@ small {
 }
 
 .sigma_audio-box{
-  width: 60px
+  width: 60px;
   height: 60px;
   background-color: #fff;
   color: #007cc2;
