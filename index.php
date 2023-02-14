@@ -320,7 +320,7 @@
 	<!-- Map Start -->
 	<div class="section d-none d-lg-block p-0">
 		<div class="container">
-			<img alt="map" src="assets/img/textures/map.png">
+			<img alt="map" src="/doc/BlankMap-Eurasia.svg.png">
 			<div class="map-markers">
 				<div class="map-marker marker-1">
 					<span></span>
