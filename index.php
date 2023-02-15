@@ -131,7 +131,8 @@
 			</div>
 		</div>
 	</section><!-- About End -->
-	<!-- Broadcast Start -->
+
+	<!--
 	<div class="section section-padding pt-0">
 		<div class="container">
 			<div class="section-title text-center">
@@ -156,7 +157,8 @@
 				</div>
 			</div>
 		</div>
-	</div><!-- Broadcast End -->
+	</div> -->
+	
 	<!-- About Start -->
 	<section class="section">
 		<div class="container">
