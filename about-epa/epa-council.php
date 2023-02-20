@@ -30,17 +30,17 @@
             <div class="entry-content">
               <div class="sigma_post-meta">
                 <div class="sigma_post-categories">
-                   <h4 class="entry-title">EPA Council</h4>
+                   <h4 class="entry-title">EPA – UNEPSA COUNCIL MEMBERS</h4>
                 </div>
               </div>
 
-              <p><b>President</b></p>
+              <p><b>President and EPA-UNEPSA Delegate to the International Pediatric Association (IPA)</b></p>
 
               <p>Massimo Pettoello-Mantovani, MD, PhD<br>
                 Chairman, Residency course,<br>
                 Institute of Pediatrics and<br>
                 Child Developmental Research Center<br>
-                Scientific Institute “Casa Sollievo” <br>
+                Scientific Institute “Casa Sollievo”<br>
                 University of Foggia<br>
                 Viale Cappuccini, 1 - 71013<br>
                 San Giovanni Rotondo. Foggia, Italy
@@ -49,13 +49,14 @@
               <p><b>Treasurer/Secretary General</b></p>
 
               <p>Mehmet Vural, MD<br>
+                Mehmet Vural, MD<br>
                 Board member, Turkish Pediatric Association (TPA)<br>
                 University of Istanbul<br>
                 Davutpaşa Cad. Merih İş Merkezi - No:45 / 58<br>
                 & Cerrahpaşa Tıp Fakültesi<br>
                 Çocuk Sağlığı ve Hastalıkları ABD<br>
-                Cerrahpaşa , Istanbul, Turkey<br>
-                Phn&Fax: +90212 6328633                
+                Cerrahpaşa, Istanbul, Turkey<br>
+                Phn&Fax: +90212 6328633     
               </p>
 
               <p><b>Vice President </b></p>
@@ -65,7 +66,7 @@
                 Wolfson Medical Center<br>
                 Holon, Israel 58100<br>
                 Tel.: 972-3-5028278<br>
-                Fax: 972-3-5028809<br>
+                Fax: 972-3-5028809
               </p>
 
               <p><b>Vice President </b></p>
@@ -78,7 +79,7 @@
                 Tel.: +353 1 863 9700
               </p>
 
-              <p><b>Past-President and Councilor </b></p>
+              <p><b>Past-President and Councilor Member of the Executive Committee <br>of the International Pediatric Association (IPA)</b></p>
               <p>
                 Leyla Namazova-Baranova, MD, PhD<br>
                 Chairman of the Russian Public Academy of Pediatrics<br>
@@ -93,23 +94,26 @@
               <p><b>Councilor</b></p>
               <p>
                 Angel Carrasco-Sanz, MD<br>
-                Past President of the European Confederation of Primary Care Pediatricians <br>
+                Past President of the European Confederation of Primary Care<br>
+                Pediatricians<br>
                 Past Secretary General of Spanish Pediatric Association<br>
-                Member, Asociacion Española de Pediatria de Atencion Primaria AEPap<br>
-                Avda de Burgos 39 1º izqda / 28036 Madrid <br>
+                Member, Asociacion Española de Pediatria de Atencion<br>
+                Primaria AEPap<br>
+                Avda de Burgos 39 1º izqda / 28036 Madrid<br>
                 Phone: +34 616 722 687<br>
                 Website: <a href="https://www.aepap.org" target="_blank">www.aepap.org</a>
               </p>
 
-              <p><b>Councilor & Chairman of the scientific Educational projects committee </b></p>
+              <p><b>Councilor & Chairman of the Scientific Educational Projects Committee </b></p>
               <p>
                 Tudor Lucian Pop, MD, PhD<br>
-                2nd Pediatric Clinic, University of Medicine and Pharmacy Iuliu Hatieganu Cluj-Napoca<br>
+                2nd Pediatric Clinic, University of Medicine and Pharmacy Iuliu<br>
+                Hatieganu, Cluj-Napoca<br>
                 Romanian Society of Social Pediatrics<br>
                 Str. Crişan nr 5, 400177 Cluj-Napoca, Romania<br>
                 E-Mail: <a href="mailto:tudor.pop@umfcluj.ro">tudor.pop@umfcluj.ro</a>
               </p>
-
+<!--
               <p><b>Councilor/ President of 11th Europaediatrics</b></p>
               <p>
                 Esra Sevketoglu, MD<br>
@@ -152,6 +156,7 @@
                 Phone: +34 616 722 687<br>
                 Website: <a href="https://www.aepap.org" target="_blank">www.aepap.org</a>
               </p>
+-->
             </div><!-- Post Meta Start -->
           </div>
         </div><!-- Sidebar Start -->
