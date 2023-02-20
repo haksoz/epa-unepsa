@@ -254,7 +254,8 @@
     slidesToScroll: 1,
     arrows: true,
     dots: false,
-    autoplay: false,
+    autoplay: true,
+    autoplaySpeed: 5000,
     responsive: [
       {
         breakpoint: 991,

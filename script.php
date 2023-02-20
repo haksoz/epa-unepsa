@@ -28,5 +28,5 @@
 	</script> 
 	<script src="/assets/js/plugins/ion.rangeSlider.min.js">
 	</script> 
-	<script src="/assets/js/main.js?v=2">
+	<script src="/assets/js/main.js?v=3">
 	</script>
