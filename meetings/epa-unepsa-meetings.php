@@ -45,7 +45,6 @@
               Joint Meeting of EPA/UNEPSA and Pediatric Association of Serbia<br>
               5-8 October 2023, Belgrade, Serbia</p><br>
 
-              
               <p><b>March 2023</b></p>
               <a href="https://www.ecpcp.eu/index.php?id=81&tx_news_pi1%5Bnews%5D=18&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=364da5e0494f6859a7998363e5d32655" target="_blank">www.ecpcp.eu/</a>
               <p>Tel Aviv Meeting<br> 
@@ -65,15 +64,6 @@
               <a href=""></a>
               <p>7th Europaediatrics Congress<br>
               13-16 May 2015, FLORENCE, Italy</p><br>
-
-
-              <p> gelecek kongreler nelerdir???</p>
-
-              <p>Zagreb, Bükreş, Dublin ve 2008 İstanbul görselleri ekleyelim.</p>
-
-              
-
-
 
             </div><!-- Post Meta Start -->
           </div>
