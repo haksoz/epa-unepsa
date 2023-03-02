@@ -21,10 +21,10 @@
 						<div class="sigma_header-top-inner">
 							<ul class="sigma_header-top-links">
 								<li class="menu-item">
-									<a href="" style="text-transform: inherit;"><i class="fal fa-phone"></i></a>
+									<a href="tel:+902164289551" style="text-transform: inherit;"><i class="fal fa-phone"> +90 216 428 95 51</i></a>
 								</li>
 								<li class="menu-item">
-									<a href="mailto:" style="text-transform: inherit;"><i class="fal fa-envelope"></i> </a>
+									<a href="mailto:info@hteuropaediatrics.org" style="text-transform: inherit;"><i class="fal fa-envelope"> info@hteuropaediatrics.org</i> </a>
 								</li>
 							</ul>
 							<!--
