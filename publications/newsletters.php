@@ -38,7 +38,7 @@
                   <img src="/sites/default/files/image26.png" class="w-100" alt="details">
                 </div>
                 <div class="col-lg-9 col-xl-9">
-                  <h6>Newsletter February 2019, Issue 26</h6>
+                  <h6 id="Newsletter01">Newsletter February 2019, Issue 26</h6>
                   <p>
                   To cite an article in this issue, please use the following details:<br>
                   LastName FirstName (2019): Article Title. EPA Newsletter (26): firstpage-lastpage.<br>
@@ -58,7 +58,7 @@
                   <img src="/sites/default/files/cover25nl.png" class="w-100" alt="details">
                 </div>
                 <div class="col-lg-9 col-xl-9">
-                  <h6>Newsletter May 2018, Issue 25</h6>
+                  <h6 id="Newsletter02">Newsletter May 2018, Issue 25</h6>
                   <p>
                     To cite an article in this issue, please use the following details:
                     LastName FirstName (2017): Article Title. EPA Newsletter (25): firstpage-lastpage.

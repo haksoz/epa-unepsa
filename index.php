@@ -182,7 +182,7 @@
 								<div class="sigma_service style-2">
 									<div class="sigma_service-thumb"><img alt="img" src="doc/Newsletter01.jpg"></div>
 									<div class="sigma_service-body">
-										<h6><a href="#">Newsletter February 2019, Issue 26</a></h6>
+										<h6><a href="/publications/newsletters.php#Newsletter01">Newsletter February 2019, Issue 26</a></h6>
 									</div>
 								</div>
 							</div>
@@ -190,7 +190,7 @@
 								<div class="sigma_service style-2">
 									<div class="sigma_service-thumb"><img alt="img" src="doc/Newsletter02.jpg"></div>
 									<div class="sigma_service-body">
-										<h6><a href="#">Newsletter May 2018, Issue 25</a></h6>
+										<h6><a href="/publications/newsletters.php#Newsletter02">Newsletter May 2018, Issue 25</a></h6>
 									</div>
 								</div>
 							</div>
