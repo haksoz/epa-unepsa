@@ -178,68 +178,142 @@
 				<div class="tab-content" id="myTabContent">
 					<div aria-labelledby="home-tab" class="tab-pane fade show active" id="home" role="tabpanel">
 						<div class="basic-dot-slider light-dots">
-                            <?php
-                            include "newsletter-array.php";
-                            foreach ($newsletterItems as $item => $itemvalue){
-                              $order[$item] = $itemvalue['issues'];
-                              }
-                              array_multisort($order, SORT_DESC, $newsletterItems);
-                              foreach ($newsletterItems as $item => $itemvalue){
-                                  $order[$item] = $itemvalue['issues'];
-                                  echo '<div class="slide-item">
-                                            <div class="sigma_service style-2">
-												<a class="sigma_service-thumb" href="/publications/newsletters.php#newsletter'.$itemvalue['issues'].'"><img alt="img" src="'.$itemvalue['image_url'].'"></a>
-                                                <div class="sigma_service-body">
-                                                    <h6><a href="/publications/newsletters.php#newsletter'.$itemvalue['issues'].'">'.$itemvalue['name'].'</a></h6>
-                                                </div>
-                                            </div>
-                                        </div>';
-                              }
-                            ?>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt="img" src="doc/Newsletter01.jpg"></div>
+									<div class="sigma_service-body">
+										<h6><a href="/publications/newsletters.php#Newsletter01">Newsletter February 2019, Issue 26</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt="img" src="doc/Newsletter02.jpg"></div>
+									<div class="sigma_service-body">
+										<h6><a href="/publications/newsletters.php#Newsletter02">Newsletter May 2018, Issue 25</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt="img" src="doc/Newsletter03.jpg"></div>
+									<div class="sigma_service-body">
+										<h6><a href="#">Newsletter October 2017, Issue 24</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt="img" src="doc/Newsletter04.jpg"></div>
+									<div class="sigma_service-body">
+										<h6><a href="#">Newsletter October 2016, Issue 23</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt="img" src="doc/Newsletter05.jpg"></div>
+									<div class="sigma_service-body">
+										<h6><a href="#">Newsletter February 2016, Issue 22</a></h6>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 					<div aria-labelledby="profile-tab" class="tab-pane fade" id="profile" role="tabpanel">
 						<div class="basic-dot-slider light-dots">
-						<?php
-                            include "publications-array.php";
-                            foreach ($publicationsItems as $publicationsitem => $publicationsitemvalue){
-                              $publicationsorder[$publicationsitem] = $publicationsitemvalue['issues'];
-                              }
-                              array_multisort($publicationsorder, SORT_DESC, $publicationsItems);
-                              foreach ($publicationsItems as $publicationsitem => $publicationsitemvalue){
-                                  $publicationsorder[$publicationsitem] = $publicationsitemvalue['issues'];
-                                  echo '<div class="slide-item">
-                                            <div class="sigma_service style-2">
-												<a class="sigma_service-thumb" href="/publications/publications.php#publications'.$publicationsitemvalue['issues'].'"><img alt="img" src="'.$publicationsitemvalue['image_url'].'"></a>
-                                                <div class="sigma_service-body">
-                                                    <h6><a href="/publications/publications.php#publications'.$publicationsitemvalue['issues'].'">'.$publicationsitemvalue['name'].'</a></h6>
-                                                </div>
-                                            </div>
-                                        </div>';
-                              }
-                        ?>
+						<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='sites/default/files/articolodef1.png'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">EPA-UNEPSA SCIENTIFIC ACTIVITY (2018-2020)</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/article_scientific.jpg'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">EPA/UNEPSA SCIENTIFIC ACTIVITY (2017)</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/article_conceptual_design.jpg'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">Conceptual Design of Future Children's Hospitals in Europe</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/articoliEbook_0.jpg'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">EPA/UNEPSA articles collection 2016</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/ArticoliEb_0.jpg'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">EPA/UNEPSA articles collection 2012-2015</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/article_scientific.jpg'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">EDITORIAL. How to cretae a best pediatric workforce</a></h6>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 					<div aria-labelledby="contact-tab" class="tab-pane fade" id="contact" role="tabpanel">
 						<div class="basic-dot-slider light-dots">
-						<?php
-                            include "articles-array.php";
-                            foreach ($articlesItems as $articlesitem => $articlesitemvalue){
-                              $articlesorder[$articlesitem] = $articlesitemvalue['issues'];
-                              }
-                              array_multisort($articlesorder, SORT_DESC, $articlesItems);
-                              foreach ($articlesItems as $articlesitem => $articlesitemvalue){
-                                  $articlesorder[$articlesitem] = $articlesitemvalue['issues'];
-                                  echo '<div class="slide-item">
-                                            <div class="sigma_service style-2">
-												<a class="sigma_service-thumb" href="/publications/articles-journals.php#articles'.$articlesitemvalue['issues'].'"><img alt="img" src="'.$articlesitemvalue['image_url'].'"></a>
-                                                <div class="sigma_service-body">
-                                                    <h6><a href="/publications/articles-journals.php#articles'.$articlesitemvalue['issues'].'">'.$articlesitemvalue['name'].'</a></h6>
-                                                </div>
-                                            </div>
-                                        </div>';
-                              }
-                        ?>
+						<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='sites/default/files/epadocs.png'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">Looking at the Future, Learning from the Past</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/articles01.jpg'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">Data Protection Policy</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/articles02.jpg'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">Demography of adolescent health care delivery and training in Europe</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/articles03.png'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">The “Invisible Children”: Uncertain Future of Unaccompanied Minor Migrants in Europe</a></h6>
+									</div>
+								</div>
+							</div>
+							<div class="slide-item">
+								<div class="sigma_service style-2">
+									<div class="sigma_service-thumb"><img alt='img' src='doc/articles04.png'></div>
+									<div class="sigma_service-body">
+										<h6><a href="#" title="">Opening the Debate on Pediatric Subspecialties</a></h6>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>

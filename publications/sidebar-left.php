@@ -4,7 +4,7 @@
                   <a href="/publications/newsletters.php">EPA/UNEPSA Newsletter<span></span></a>
                 </li>
                 <li>
-                  <a href="/publications/ebook-articles.php">EPA/UNEPSA Publications<span></span></a>
+                  <a href="/publications/publications.php">EPA/UNEPSA Publications<span></span></a>
                 </li>
                 <li>
                   <a href="/publications/articles-journals.php">EPA/UNEPSA Articles<span></span></a>
