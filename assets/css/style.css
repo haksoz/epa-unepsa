@@ -9813,7 +9813,7 @@ small {
 .map-marker-content{
   position: absolute;
   top: -15px;
-  right: calc(100% + 15px);
+  left: calc(100% + 15px);
   transition: .3s;
   opacity: 0;
   min-width: 350px;
@@ -9829,8 +9829,8 @@ small {
   position: absolute;
   top: 10px;
   width: 0;
-  left: 100%;
-  transform: rotate(180deg);
+  left: -10px;
+  /*transform: rotate(180deg);*/
   height: 0;
   border-top: 10px solid transparent;
   border-right: 10px solid #007cc2;
