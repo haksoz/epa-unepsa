@@ -1,4 +1,14 @@
 <head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-SYD41E8KZ3"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'G-SYD41E8KZ3');
+	</script>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<title>EUROPEAN PAEDIATRIC ASSOCIATION (EPA / UNEPSA)</title><!-- Favicon -->
