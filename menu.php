@@ -95,6 +95,7 @@
 		</li>
 	</ul>
 </li>
+<!--
 <li class="menu-item menu-item-has-children">
 	<a href="#">Corporate Collaboration</a>
 	<ul class="sub-menu">
@@ -106,6 +107,7 @@
 		</li>
 	</ul>
 </li>
+-->
 <li class="menu-item">
 	<a href="/contact.php">Contact</a>
 </li>
