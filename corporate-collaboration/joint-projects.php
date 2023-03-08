@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<?php $page = 'joint-projects'; ?>
+<?php $page = 'corporate-collaboration'; ?>
+<?php $sidebar = 'joint-projects'; ?>
+
+
 
 <html dir="ltr" lang="en">
 

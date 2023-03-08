@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'epa-unepsa-statements'; ?>
+<?php $page = 'publications'; ?>
+<?php $sidebar = 'epa-unepsa-statements'; ?>
 
 <html dir="ltr" lang="en">
 

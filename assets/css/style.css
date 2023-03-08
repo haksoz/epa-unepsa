@@ -4031,6 +4031,10 @@ table img {
 .sigma_header-inner{
   flex: 1;
 }
+
+.sigma_header-inner ul > li > a.active{
+  color: #037cc2;
+}
 .sigma_header-inner ul > li > a{
   color: #000000;
   padding: 20px 15px;
@@ -5538,6 +5542,7 @@ table img {
   justify-content: center;
 }
 
+.sidebar-widget.widget-categories ul li a.active,
 .sidebar-widget.widget-categories ul li a:hover{
   background-color: #89aedc;
   color: #fff;
@@ -5547,6 +5552,7 @@ table img {
   background-color: #f0fff0;
   color: #7E4555;
 }
+
 
 .sidebar-widget.event-info li + li{
   margin-top: 15px;

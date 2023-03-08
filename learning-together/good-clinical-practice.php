@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'good-clinical-practice'; ?>
+<?php $page = 'learning-together'; ?>
+<?php $sidebar = 'good-clinical-practice'; ?>
 
 <html dir="ltr" lang="en">
 

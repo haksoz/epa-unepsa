@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'constitution'; ?>
+<?php $page = 'about-epa'; ?>
+<?php $sidebar = 'constitution'; ?>
 
 <html dir="ltr" lang="en">
 

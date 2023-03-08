@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'history'; ?>
+<?php $page = 'about-epa'; ?>
+<?php $sidebar = 'history'; ?>
 
 <html dir="ltr" lang="en">
 

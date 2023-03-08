@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'data-protection'; ?>
+<?php $page = 'about-epa'; ?>
+<?php $sidebar = 'data-protection'; ?>
 
 <html dir="ltr" lang="en">
 

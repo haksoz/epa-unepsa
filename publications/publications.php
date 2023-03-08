@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'newsletters'; ?>
+<?php $page = 'publications'; ?>
+<?php $sidebar = 'publications'; ?>
 
 <html dir="ltr" lang="en">
 

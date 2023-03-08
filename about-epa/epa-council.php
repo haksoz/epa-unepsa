@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'epa-council'; ?>
+<?php $page = 'about-epa'; ?>
+<?php $sidebar = 'epa-council'; ?>
 
 <html dir="ltr" lang="en">
 

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'member-meetings'; ?>
+<?php $page = 'meetings'; ?>
+<?php $sidebar = 'member-meetings'; ?>
 
 <html dir="ltr" lang="en">
 

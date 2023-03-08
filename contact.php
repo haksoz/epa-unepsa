@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $page = 'sample-page'; ?>
+<?php $page = 'contact'; ?>
 
 <html dir="ltr" lang="en">
 

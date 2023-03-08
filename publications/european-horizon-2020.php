@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'european-horizon-2020'; ?>
+<?php $page = 'publications'; ?>
+<?php $sidebar = 'european-horizon-2020'; ?>
 
 <html dir="ltr" lang="en">
 

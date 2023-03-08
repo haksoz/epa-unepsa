@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'policy'; ?>
+<?php $page = 'corporate-collaboration'; ?>
+<?php $sidebar = 'policy'; ?>
 
 <html dir="ltr" lang="en">
 

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'epa-unepsa-meetings'; ?>
+<?php $page = 'meetings'; ?>
+<?php $sidebar = 'epa-unepsa-meetings'; ?>
 
 <html dir="ltr" lang="en">
 

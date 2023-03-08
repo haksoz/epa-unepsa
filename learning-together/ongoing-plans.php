@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'ongoing-plans'; ?>
+<?php $page = 'learning-together'; ?>
+<?php $sidebar = 'ongoing-plans'; ?>
 
 <html dir="ltr" lang="en">
 

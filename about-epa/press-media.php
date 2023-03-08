@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php $page = 'press-media'; ?>
+<?php $page = 'about-epa'; ?>
+<?php $sidebar = 'press-media'; ?>
 
 <html dir="ltr" lang="en">
 
