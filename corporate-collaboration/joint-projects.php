@@ -44,7 +44,7 @@
                 <li>the most urgent problems of pediatric health care in various areas related to children health (ie: Endocrinology, Neonatology, Allergy, Infectious diseases, Vaccine and vaccinations, Gastroenterology)</li>
               </ul>
               <p>EPA-UNEPSA is locally related to more than 200.000 paediatricians active in Europe through its member Societies and Association. Furthermore EPA-UNEPSA serves to the direct attention of over 40,000 active paediatricians in Europe and beyond.</p>
-              <p><b>Please <a href="mailto:info@hteuropaediatrics.org">click to contact the Secretariat</a> to obtain sponsorship guidelines for EPA-UNEPSA ongoing or possible activities. </b></p>
+              <p><b>Please <a href="mailto:secretariat@epa-unepsa.eu">click to contact the Secretariat</a> to obtain sponsorship guidelines for EPA-UNEPSA ongoing or possible activities. </b></p>
               <p>Please feel free to ask for the arrangement of a zoom meeting with the members of the EPA-UNEPSA council for any discussions for collaboration on special projects with such and similar purposes.</p>
             </div><!-- Post Meta Start -->
           </div>

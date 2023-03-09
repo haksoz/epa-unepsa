@@ -28,7 +28,7 @@
 
               <p>For any inquiry, please contact the EPA-UNEPSA secretariat team or the individual board members at their official emails addresses.</p>
 
-              <p><a href="mailto:info@hteuropaediatrics.org">info@hteuropaediatrics.org</a></p>
+              <p><a href="mailto:secretariat@epa-unepsa.eu">secretariat@epa-unepsa.eu</a></p>
 
               
              

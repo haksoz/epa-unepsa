@@ -24,7 +24,7 @@
 									<a href="tel:+902164289551" style="text-transform: inherit;"><i class="fal fa-phone"> +90 216 428 95 51</i></a>
 								</li>
 								<li class="menu-item">
-									<a href="mailto:info@hteuropaediatrics.org" style="text-transform: inherit;"><i class="fal fa-envelope"> info@hteuropaediatrics.org</i> </a>
+									<a href="mailto:secretariat@epa-unepsa.eu" style="text-transform: inherit;"><i class="fal fa-envelope"> secretariat@epa-unepsa.eu</i> </a>
 								</li>
 							</ul>
 							<!--
